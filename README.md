@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @YuriyIzbash
-- 👀 I’m interested in iOS Development, AI, Data Analatycs and Software Engimeering in general 
-- 🌱 I’m currently learning and working with SwiftUI, JavaScript, Python
+- 👀 I’m interested in iOS Development, AI, Data Analatycs and Software Development in general 
+- 🌱 I’m currently learning and working with Swift, JavaScript, Python
 - 💞️ I’m looking to collaborate on any interesting projects related with App development and e-commerce platforms
 - 📫 How to reach me izbash91@gmail.com
 
